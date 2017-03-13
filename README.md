@@ -1,5 +1,5 @@
-Piano_jonas Ackermann Steering Calulation Spreadsheet
------------------------------------------------------
+Piano_jonas Ackermann Steering Calculation Spreadsheet
+------------------------------------------------------
 
 ![screenshot](http://www.rc-museet.com/album/albums/userpics/10001/ackermann_800.png)
 
